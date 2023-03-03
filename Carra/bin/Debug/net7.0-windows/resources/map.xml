@@ -1,0 +1,76 @@
+<root>
+  <map width="800" height="1000">
+    <layer name="BgScenery">
+      <tile x="0" y="0" id="0" width="250" height="1">
+        <image source="road.bmp" />
+      </tile>
+      <tile x="0" y="0" id="0" width="1">
+        <image source="road.bmp" />
+      </tile>
+      <tile x="10" y="0" id="0" width="1" height="150">
+        <image source="road.bmp" />
+      </tile>
+      <tile x="0" y="330" id="0" width="140" height="1">
+        <image source="road.bmp" />
+      </tile>
+      <tile x="30" y="0" id="0" width="1" height="150">
+        <image source="road.bmp" />
+      </tile>
+      <tile x="0" y="100" id="0" width="140" height="1">
+        <image source="road.bmp" />
+      </tile>
+      <tile x="30" y="0" id="0" width="1" height="150">
+        <image source="road.bmp" />
+      </tile>
+      <tile x="0" y="100" id="0" width="110" height="1">
+        <image source="road.bmp" />
+      </tile>
+      <tile x="30" y="0" id="0" width="1" height="150">
+        <image source="road.bmp" />
+      </tile>
+      <tile x="0" y="100" id="0" width="80" height="1">
+        <image source="road.bmp" />
+      </tile>
+      <tile x="30" y="0" id="0" width="1" height="150">
+        <image source="road.bmp" />
+      </tile>
+      <tile x="0" y="100" id="0" width="80" height="1">
+        <image source="road.bmp" />
+      </tile>
+    </layer>
+    <layer name="Buildings">
+      <tile x="1" y="1" id="0" width="1" height="1" collision="true">
+        <image source="house.bmp" />
+      </tile>
+      <tile x="2" y="1" id="0" width="1" height="1" collision="true">
+        <image source="house.bmp" />
+      </tile>
+      <tile x="3" y="1" id="0" width="1" height="1" collision="true">
+        <image source="house.bmp" />
+      </tile>
+      <tile x="4" y="1" id="0" width="1" height="1" collision="true">
+        <image source="house.bmp" />
+      </tile>
+      <tile x="9" y="16" id="0" width="1" height="1" collision="true">
+        <image source="house.bmp" />
+      </tile>
+      <tile x="9" y="17" id="0" width="1" height="1" collision="true">
+        <image source="house.bmp" />
+      </tile>
+      <tile x="9" y="18" id="0" width="1" height="1" collision="true">
+        <image source="house.bmp" />
+      </tile>
+      <tile x="9" y="19" id="0" width="1" height="1" collision="true">
+        <image source="house.bmp" />
+      </tile>
+    </layer>
+    <layer name="water">
+      <tile x="6" y="16" id="1" width="2" height="4">
+        <image source="water.bmp" />
+      </tile>
+      <tile x="14" y="40" id="1" width="2" height="4">
+        <image source="water.bmp" />
+      </tile>
+    </layer>
+  </map>
+</root>

@@ -1,0 +1,9 @@
+.vs/
+*.mp3
+*.dt.?
+*.pdb
+Release/
+[^spaghetto]*.dll
+obj/
+*.exe
+*.json
