@@ -12,3 +12,5 @@ Note that unlike most of my other projects, this one is not open source. I am no
 
 * Music (PLEASE CREATE AN ISSUE IF YOU THINK THERE'S A COPYRIGHT ISSUE)
 
+
+To avoid more copyright issues, I will not be including any music in the repository, so the code will compile, but will throw errors when enabled the radio, If you want to play the game, download it from the website.
